@@ -1,0 +1,7 @@
+kafka:
+    bootstrap-servers : 192.168.10.8:9092
+    topic:
+        name: demo
+
+server:
+    port: 8081
